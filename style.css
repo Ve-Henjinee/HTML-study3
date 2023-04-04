@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(218, 234, 239);
+}
+
+.inline {
+  border-top: 2px solid rebeccapurple;
+  border-bottom: 2px solid rebeccapurple;
+}
+.block {
+  border-top: 2px solid olive;
+  border-bottom: 2px solid olive;
+  border-left: 2px solid orange;
+  border-right: 2px solid orange;
+  margin-top: 10px;
+}
+
+.border {
+  margin-top: 10px;
+  border-top: 2px solid red;
+}
+.margin-b {
+  margin-bottom: 30px;
+}
+
+.green {
+  color:green;
+}
+.red {
+  color:red;
+}
+.blue {
+  color:blue;
+}
+.green1 {
+  background-color: green;
+}
+.red1 {
+  background-color: red;
+}
+.blue1 {
+  background-color: blue;
+}
+pre {
+  border: 6px solid rgb(146, 209, 20);
+}
+img {
+  border: 1px solid wheat;
+}
+.small-img {
+  width: 200px;
+}
+.big-img {
+  width: 400px;
+}
